@@ -1,0 +1,8 @@
+# Ignore everything
+/*
+
+# But not these files...
+!.gitignore
+!Intro\ to\ Data\ Analysis\ using\ Pandas.ipynb
+!README.md
+!/imgs/
