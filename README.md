@@ -66,4 +66,4 @@ Distributed under the MIT License.
 <!-- CONTACT -->
 ## Contact
 
-The Australian Space Data Analysis Facility - [@asdaf_space](https://twitter.com/asdaf_space)
+The Australian Space Data Analysis Facility - [Twitter](https://twitter.com/asdaf_space) or Email: info@asdaf.space
